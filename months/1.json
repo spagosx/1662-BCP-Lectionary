@@ -1,0 +1,312 @@
+[
+    {
+        "morning": {
+            "first": "Genesis+17:19-27",
+            "second": "Romans+2:17-29"
+        },
+        "evening": {
+            "first": "Deuteronomy+10:12-22",
+            "second": "Colossians+2:8-18"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+1:1-20",
+            "second": "Matthew+1:18-25"
+        },
+        "evening": {
+            "first": "Genesis+1:20-2:4",
+            "second": "Acts+1"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+2:4-25",
+            "second": "Matthew+2"
+        },
+        "evening": {
+            "first": "Genesis+3:1-20",
+            "second": "Acts+2:1-22"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+3:20-4:16",
+            "second": "Matthew+3"
+        },
+        "evening": {
+            "first": "Genesis+4:16-26",
+            "second": "Acts+2:22-47"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+5:1-28",
+            "second": "Matthew+4:1-23"
+        },
+        "evening": {
+            "first": "Genesis+5:28-6:9",
+            "second": "Acts+3"
+        }
+    },
+    {
+        "morning": {
+            "first": "Isaiah+60",
+            "second": "Luke+3:15-23"
+        },
+        "evening": {
+            "first": "Isaiah+49:13-24",
+            "second": "John+2:1-12"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+6:9-22",
+            "second": "Matthew+4:23-5:13"
+        },
+        "evening": {
+            "first": "Genesis+7",
+            "second": "Acts+4:1-32"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+8",
+            "second": "Matthew+5:13-33"
+        },
+        "evening": {
+            "first": "Genesis+9:1-20",
+            "second": "Acts+4:32-5:17"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+11:1-10",
+            "second": "Matthew+5:33-48"
+        },
+        "evening": {
+            "first": "Genesis+12",
+            "second": "Acts+5:17-42"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+13",
+            "second": "Matthew+6:1-19"
+        },
+        "evening": {
+            "first": "Genesis+14",
+            "second": "Acts+6"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+15",
+            "second": "Matthew+6:19-7:7"
+        },
+        "evening": {
+            "first": "Genesis+16",
+            "second": "Acts+7:1-35"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+17:1-23",
+            "second": "Matthew+7:7-29"
+        },
+        "evening": {
+            "first": "Genesis+18:1-17",
+            "second": "Acts+7:35-8:5"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+18:17-33",
+            "second": "Matthew+8:1-18"
+        },
+        "evening": {
+            "first": "Genesis+19:12-30",
+            "second": "Acts+8:5-26"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+20",
+            "second": "Matthew+8:18-34"
+        },
+        "evening": {
+            "first": "Genesis+21:1-22",
+            "second": "Acts+8:26-40"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+21:33-22:20",
+            "second": "Matthew+9:1-18"
+        },
+        "evening": {
+            "first": "Genesis+23",
+            "second": "Acts+9:1-23"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+24:1-29",
+            "second": "Matthew+9:18-38"
+        },
+        "evening": {
+            "first": "Genesis+24:29-52",
+            "second": "Acts+9:23-43"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+24:52-67",
+            "second": "Matthew+10:1-24"
+        },
+        "evening": {
+            "first": "Genesis+25:5-19",
+            "second": "Acts+10:1-24"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+25:19-34",
+            "second": "Matthew+10:24-42"
+        },
+        "evening": {
+            "first": "Genesis+26:1-18",
+            "second": "Acts+10:24-48"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+26:18-35",
+            "second": "Matthew+11"
+        },
+        "evening": {
+            "first": "Genesis+27:1-30",
+            "second": "Acts+11"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+27:30-46",
+            "second": "Matthew+12:1-22"
+        },
+        "evening": {
+            "first": "Genesis+28",
+            "second": "Acts+12"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+29:1-21",
+            "second": "Matthew+12:22-50"
+        },
+        "evening": {
+            "first": "Genesis+31:1-25",
+            "second": "Acts+13:1-26"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+31:36-55",
+            "second": "Matthew+13:1-24"
+        },
+        "evening": {
+            "first": "Genesis+32:1-22",
+            "second": "Acts+13:26-52"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+32:22-32",
+            "second": "Matthew+13:24-53"
+        },
+        "evening": {
+            "first": "Genesis+33",
+            "second": "Acts+14"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+35:1-21",
+            "second": "Matthew+13:53-14:13"
+        },
+        "evening": {
+            "first": "Genesis+37:1-12",
+            "second": "Acts+15:1-30"
+        }
+    },
+    {
+        "morning": {
+            "first": "Isaiah+49:1-13",
+            "second": "Galatians+1:11-24"
+        },
+        "evening": {
+            "first": "Jeremiah+1:1-11",
+            "second": "Acts+26:1-21"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+37:12-36",
+            "second": "Matthew+14:13-36"
+        },
+        "evening": {
+            "first": "Genesis+39",
+            "second": "Acts+15:30-16:16"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+40",
+            "second": "Matthew+15:1-21"
+        },
+        "evening": {
+            "first": "Genesis+49:1-17",
+            "second": "Acts+16:16-40"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+41:17-53",
+            "second": "Matthew+15:21-39"
+        },
+        "evening": {
+            "first": "Genesis+41:53-42:25",
+            "second": "Acts+17:1-16"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+42:25-38",
+            "second": "Matthew+16:1-24"
+        },
+        "evening": {
+            "first": "Genesis+43:1-25",
+            "second": "Acts+17:16-34"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+43:25-44:14",
+            "second": "Matthew+16:24-17:14"
+        },
+        "evening": {
+            "first": "Genesis+44:14-34",
+            "second": "Acts+18:1-24"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+45:1-25",
+            "second": "Matthew+17:14-27"
+        },
+        "evening": {
+            "first": "Genesis+45:25-46:8",
+            "second": "Acts+18:24-19:21"
+        }
+    }
+]

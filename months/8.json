@@ -1,0 +1,312 @@
+[
+    {
+        "morning": {
+            "first": "Proverbs+27:1-23",
+            "second": "Romans+2:1-17"
+        },
+        "evening": {
+            "first": "Proverbs+28:1-15",
+            "second": "Matthew+16:24-28 & Matthew+17:1-14"
+        }
+    },
+    {
+        "morning": {
+            "first": "Proverbs+30:1-18",
+            "second": "Romans+2:17"
+        },
+        "evening": {
+            "first": "Proverbs+31:10",
+            "second": "Matthew+17:14"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ecclesiastes+1",
+            "second": "Romans+3"
+        },
+        "evening": {
+            "first": "Ecclesiastes+2:1-12",
+            "second": "Matthew+18:1-21"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ecclesiastes+3",
+            "second": "Romans+4"
+        },
+        "evening": {
+            "first": "Ecclesiastes+4",
+            "second": "Matthew+18:21-35 & Matthew+19:3"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ecclesiastes+5",
+            "second": "Romans+5"
+        },
+        "evening": {
+            "first": "Ecclesiastes+6",
+            "second": "Matthew+19:3:1-27"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ecclesiastes+7",
+            "second": "Romans+6"
+        },
+        "evening": {
+            "first": "Ecclesiastes+8",
+            "second": "Matthew+19:27-30 & Matthew+20:1-17"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ecclesiastes+9",
+            "second": "Romans+7"
+        },
+        "evening": {
+            "first": "Ecclesiastes+11",
+            "second": "Matthew+20:17"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ecclesiastes+12",
+            "second": "Romans+8:1-18"
+        },
+        "evening": {
+            "first": "Jeremiah+1",
+            "second": "Matthew+21:1-23"
+        }
+    },
+    {
+        "morning": {
+            "first": "Jeremiah+2:1-14",
+            "second": "Romans+8:18"
+        },
+        "evening": {
+            "first": "Jeremiah+5:1-19",
+            "second": "Matthew+21:23"
+        }
+    },
+    {
+        "morning": {
+            "first": "Jeremiah+5:19",
+            "second": "Romans+9:1-19"
+        },
+        "evening": {
+            "first": "Jeremiah+6:1-22",
+            "second": "Matthew+22:1-15"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+7:1-17",
+            "second": "Romans+9:19"
+        },
+        "evening": {
+            "first": "Jeremiah+8:4",
+            "second": "Matthew+22:15-41"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+9:1-17",
+            "second": "Romans+10"
+        },
+        "evening": {
+            "first": "Jeremiah+13:8-24",
+            "second": "Matthew+22:41-46 & Matthew+23:1-13"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+15",
+            "second": "Romans+11:25"
+        },
+        "evening": {
+            "first": "Jeremiah+17:1-19",
+            "second": "Matthew+23:13"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+18:1-18",
+            "second": "Romans+11:25"
+        },
+        "evening": {
+            "first": "Jeremiah+19",
+            "second": "Matthew+24:1-29"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+21",
+            "second": "Romans+12"
+        },
+        "evening": {
+            "first": "Jeremiah+22:1-13",
+            "second": "Matthew+24:29"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+22:13",
+            "second": "Romans+13"
+        },
+        "evening": {
+            "first": "Jeremiah+23:1-16",
+            "second": "Matthew+25:1-31"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+24",
+            "second": "Romans+14 & Romans+15:1-8"
+        },
+        "evening": {
+            "first": "Jeremiah+25:1-15",
+            "second": "Matthew+25:31"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+26",
+            "second": "Romans+15:8"
+        },
+        "evening": {
+            "first": "Jeremiah+28",
+            "second": "Matthew+26:1-31"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+29:4-20",
+            "second": "Romans+16"
+        },
+        "evening": {
+            "first": "Jeremiah+30",
+            "second": "Matthew+26:31-57"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+31:1-15",
+            "second": "1+Corinthians+1:1-26"
+        },
+        "evening": {
+            "first": "Jeremiah+31:15-38",
+            "second": "Matthew+26:57"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+33:1-14",
+            "second": "1+Corinthians+1:26-31 & 1+Corinthians+2"
+        },
+        "evening": {
+            "first": "Jeremiah+33:14",
+            "second": "Matthew+27:1-27"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+35",
+            "second": "1+Corinthians+3"
+        },
+        "evening": {
+            "first": "Jeremiah+36:1-14",
+            "second": "Matthew+27:27-57"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+36:14",
+            "second": "1+Corinthians+4:1-18"
+        },
+        "evening": {
+            "first": "Jeremiah+38:1-14",
+            "second": "Matthew+27:57"
+        }
+    },
+    {
+        "morning": {
+            "first": "Genesis+28:10-18",
+            "second": "1+Corinthians+4:18-21 & 1+Corinthians+5"
+        },
+        "evening": {
+            "first": "Deuteronomy+18:15",
+            "second": "Matthew+28"
+        }
+    },
+    {
+        "morning": {
+            "first": "Jeremiah+38:14",
+            "second": "1+Corinthians+6"
+        },
+        "evening": {
+            "first": "Jeremiah+39",
+            "second": "Mark+1:1-21"
+        }
+    },
+    {
+        "morning": {
+            "first": "Jeremiah+50:1-21",
+            "second": "1+Corinthians+7:1-25"
+        },
+        "evening": {
+            "first": "Jeremiah+51:54",
+            "second": "Mark+1:21"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+1:1-15",
+            "second": "1+Corinthians+7:25"
+        },
+        "evening": {
+            "first": "Ezekiel+1:15",
+            "second": "Mark+2:1-23"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+2",
+            "second": "1+Corinthians+8"
+        },
+        "evening": {
+            "first": "Ezekiel+3:1-15",
+            "second": "Mark+2:23-28 & Mark+3:1-13"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+3:15",
+            "second": "1+Corinthians+9"
+        },
+        "evening": {
+            "first": "Ezekiel+8",
+            "second": "Mark+3:13"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+9",
+            "second": "1+Corinthians+10 & 1+Corinthians+11:1"
+        },
+        "evening": {
+            "first": "Ezekiel+11:14",
+            "second": "Mark+4:1-35"
+        }
+    },
+    {
+        "morning": {
+            "first": "Ezekiel+12:17",
+            "second": "1+Corinthians+11:2-17"
+        },
+        "evening": {
+            "first": "Ezekiel+13:1-17",
+            "second": "Mark+4:35-41 & Mark+5:1-21"
+        }
+    }
+]
